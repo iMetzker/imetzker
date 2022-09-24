@@ -2,7 +2,7 @@
 
 😎 Estudante de JavaScript │ HTML │ CSS │ REACT - Ûdemy <br>
 👾 Apaixonada Por Programação <br>
-🤖 Atualmente: Estudando HTML e CSS 
+🤖 Atualmente: Estudando HTML e CSS <br>
 🚩 Nível: 1 - Newbie
 
 <div align="center">
