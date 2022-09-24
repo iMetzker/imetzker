@@ -2,7 +2,8 @@
 
 😎 Estudante de JavaScript │ HTML │ CSS │ REACT - Ûdemy <br>
 👾 Apaixonada Por Programação <br>
-🤖 Atualmente iniciando minha jornada nos estudos para desenvolvimento web
+🤖 Atualmente: Estudando HTML e CSS 
+🚩 Nível: 1 - Newbie
 
 <div align="center">
   <a href="https://github.com/imetzker">
