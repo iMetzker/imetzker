@@ -1,6 +1,8 @@
 # Oiê! Eu sou a Ivny Metzker! ✨
 
-😎 Estudante de JavaScript │ HTML │ CSS │ REACT - Ûdemy
+😎 Estudante de JavaScript │ HTML │ CSS │ REACT - Ûdemy <br>
+👾 Apaixonada Por Programação <br>
+🤖 Atualmente iniciando minha jornada nos estudos para desenvolvimento web
 
 <div align="center">
   <a href="https://github.com/imetzker">
