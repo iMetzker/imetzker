@@ -1,4 +1,4 @@
-# Oiê! Eu sou a Ivny Metzker! ✨
+# Olá! Eu sou a Ivny Metzker! ✨
 
 😎 Estudante de Tecnologias Voltadas para Desenvolvimento Web em Front-End <br>
 👾 Apaixonada Por Programação <br>
@@ -16,7 +16,6 @@
   <img align="center" alt="Metzker-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Metzker-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Metzker-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <a href"#"><img align="right" alt="Metzker-pic" height="150" style="border-radius:50px;" src="https://i.makeagif.com/media/9-24-2022/ViTY3z.gif"></a>
 </div>
   
   ##
