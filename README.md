@@ -1,9 +1,9 @@
 # Oiê! Eu sou a Ivny Metzker! ✨
 
-😎 Estudante de JavaScript │ HTML │ CSS │ REACT <br>
+😎 Estudante de Tecnologias Voltadas para Desenvolvimento Web em Front-End <br>
 👾 Apaixonada Por Programação <br>
-🤖 Atualmente: Estudando HTML e CSS <br>
-🚩 Nível: 1 - Newbie
+🤖 Atualmente Desenvolvendo em JavaScript <br>
+🚩 Aspiração: Estágio
 
 <div align="center">
   <a href="https://github.com/imetzker">
