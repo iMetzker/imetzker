@@ -1,6 +1,6 @@
 # Olá! Eu sou a Ivny Metzker! ✨
 
-😎 Estudante de Tecnologias Voltadas para Desenvolvimento Web em Front-End <br>
+😎 Estudante de Tecnologias Voltadas para Desenvolvimento Web em Front-End e Back-End <br>
 👾 Apaixonada Por Programação <br>
 🤖 Atualmente Desenvolvendo em JavaScript <br>
 🚩 Aspiração: Estágio
