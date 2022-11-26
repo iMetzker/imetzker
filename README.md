@@ -1,5 +1,3 @@
-# Hi guys, I'm Ivny Metzker! ✨
-
 😎 Student of Technologies for Web Development in Front-End and Back-End <br>
 👾 Love For Programming <br>
 🤖 Currently Developing in JavaScript <br>
