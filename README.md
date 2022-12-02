@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/ivny-metzker-509880251" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<img src="IvnyMetzker.jpg"/>
+<img src="cardIvnyMetzker.jpg"/>
 
 <p>
 Olá amigos, sejam bem vindos! <img width="30" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"/> Eu sou a Ivny, estou em busca da minha primeira oportunidade profissional como estagiária atuando na área de desenvolvimento web. Há pouco mais de dois meses descobri esse mundo incrível e fascinante da programação, desde então sigo apaixonada e estudando constantemente tecnologias voltadas para o desenvolvimento web (com foco especial em javascript ❤🔥) front-end e back-end. 
@@ -18,6 +18,7 @@ Olá amigos, sejam bem vindos! <img width="30" src="https://raw.githubuserconten
   <a href="https://github.com/iMetzker">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMetzker&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Metzker-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Metzker-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,4 +28,3 @@ Olá amigos, sejam bem vindos! <img width="30" src="https://raw.githubuserconten
 </div>
 
 ##
-
