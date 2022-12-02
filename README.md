@@ -8,7 +8,7 @@
 <img src="IvnyMetzker.jpg"/>
 
 <p>
-Olá amigos, sejam bem vindos! <img width="30" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"/> Eu sou a Ivny, estou em busca da minha primeira oportunidade profissional como estagiária atuando na área de desenvolvimento web. Há pouco mais de dois meses descobri esse mundo incrível e fascinante da programação, desde então sigo apaixonada e estudando constantemente tecnologias voltadas para o desenvolvimento web front-end e back-end. 
+Olá amigos, sejam bem vindos! <img width="30" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"/> Eu sou a Ivny, estou em busca da minha primeira oportunidade profissional como estagiária atuando na área de desenvolvimento web. Há pouco mais de dois meses descobri esse mundo incrível e fascinante da programação, desde então sigo apaixonada e estudando constantemente tecnologias voltadas para o desenvolvimento web (com foco especial em javascript ❤🔥) front-end e back-end. 
 </p> 
 
 <br> 
