@@ -5,10 +5,11 @@
   <a href="https://www.linkedin.com/in/ivny-metzker-509880251" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<img src="cardIvnyMetzker.jpg"/>
+<img src="loading.gif" style=" width: 100vw; height: 200px;"/>
 
+# < Hello World Of Codes! />
 <p>
-Olá amigos, sejam bem vindos! <img width="30" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"/> Eu sou a Ivny, estou em busca da minha primeira oportunidade profissional como estagiária atuando na área de desenvolvimento web. Há pouco mais de dois meses descobri esse mundo incrível e fascinante da programação, desde então sigo apaixonada e estudando constantemente tecnologias voltadas para o desenvolvimento web front-end (com foco especial em javascript ❤🔥). 
+Olá devs, sejam bem vindos! <img width="30" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"/>
 </p> 
 
 <br> 
