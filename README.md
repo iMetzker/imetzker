@@ -7,12 +7,14 @@
 
 <img src="loading.gif" style=" width: 100vw; height: 200px;"/>
 
-# < Hello World Of Codes! />
-<p>
+```javascript
+console.log('Hello World!');
+```
+<div align="center">
 Olá devs, sejam bem vindos! <img width="30" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"/>
-</p> 
+</div>
 
-<br> 
+<br>
 
 
 <div align="center">
