@@ -19,7 +19,7 @@ Olá devs, sejam bem vindos! <img width="30" src="https://raw.githubusercontent.
 
 <div align="center">
   <a href="https://github.com/iMetzker">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMetzker&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMetzker&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
