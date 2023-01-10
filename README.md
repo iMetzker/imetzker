@@ -11,15 +11,15 @@
 console.log('Hello World!');
 ```
 <div align="center">
-Olá devs, sejam bem vindos! <img width="30" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"/>
+  Olá devs, sejam bem vindos! <img width="30" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"/>
 </div>
 
 <br>
 
-
 <div align="center">
   <a href="https://github.com/iMetzker">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMetzker&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iMetzker&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMetzker&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
