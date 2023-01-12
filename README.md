@@ -8,15 +8,14 @@
 ```javascript
 console.log('Hello World!');
 ```
-<div align="center">
-  <img height="250em" src="">
-</div>
+<br>
 
 - 🚀 Em transição de carreira
 - 🛸 Atualmente estou me dedicando a aprender JavaScript
 - ⚙ Cursando Engenharia de Software 1º período 
 - ⚡ Apaixonada pela área de desenvolvimento e seus desafios
 
+<br>
 
 <div align="center">
   <a href="https://github.com/iMetzker">
@@ -31,5 +30,11 @@ console.log('Hello World!');
   <img align="center" alt="Metzker-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Metzker-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
+  
+<br>
+  
+<div align="center">
+  <img height="200em" src="gif-code.gif">
+</div>
+ 
 ##
