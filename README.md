@@ -5,22 +5,23 @@
   <a href="https://www.linkedin.com/in/ivny-metzker-509880251" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<img src="loading.gif" style=" width: 100vw; height: 200px;"/>
-
 ```javascript
 console.log('Hello World!');
 ```
-
 <div align="center">
-  Olá devs, sejam bem vindos! <img width="30" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"/>
+  <img height="250em" src="">
 </div>
 
-<br>
+- 🚀 Em transição de carreira
+- 🛸 Atualmente estou me dedicando a aprender JavaScript
+- ⚙ Cursando Engenharia de Software 1º período 
+- ⚡ Apaixonada pela área de desenvolvimento e seus desafios
+
 
 <div align="center">
   <a href="https://github.com/iMetzker">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iMetzker&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMetzker&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMetzker&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
