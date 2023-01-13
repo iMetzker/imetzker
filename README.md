@@ -11,7 +11,7 @@ console.log('Hello World!');
 <br>
 
 - 🚀 Em transição de carreira
-- 🛸 Atualmente estou me dedicando a aprender JavaScript
+- 🛸 Atualmente estou estudando JavaScript
 - ⚙ Cursando Engenharia de Software 1º período 
 - ⚡ Apaixonada por programação
 
