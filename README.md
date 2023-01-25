@@ -10,10 +10,10 @@ console.log('Hello World!');
 ```
 <br>
 
-- 🚀 Em transição de carreira
-- 🛸 Atualmente estudando JavaScript
-- ⚙ Cursando Engenharia de Software 1º período 
-- ⚡ Apaixonada por programação
+- 🚀 In career transition
+- 🛸 Currently studying JavaScript
+- ⚙ Studying Software Engineering 1st period
+- ⚡ passionate about programming
 
 <br>
 
