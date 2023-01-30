@@ -11,9 +11,9 @@ console.log('Hello World!');
 <br>
 
 - 🚀 In career transition
-- 🛸 Currently studying JavaScript
-- ⚙ Studying Software Engineering 1st period
-- ⚡ passionate about programming
+- 🛸 I’m currently learning JavaScript on Ûdemy
+- ⚙  Studying Software Engineering 1st period
+- 💬 Ask me about anything
 
 <br>
 
