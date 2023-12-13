@@ -12,7 +12,7 @@ console.log('Hello World!');
 
 - 🚀 In career transition
 - 🛸 I’m currently learning JavaScript and React on Ûdemy
-- ⚙  Studying Software Engineering 2st period
+- ⚙  Studying Software Engineering 3st period
 - 💬 Ask me about anything
 
 <br>
