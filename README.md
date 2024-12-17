@@ -10,7 +10,6 @@ console.log('Hello World!');
 ```
 <br>
 
-- 🛸 I’m currently learning JavaScript and React
 - ⚙  Studying Software Engineering 5st period
 - 💻 Studying Information Systems 3st period
 - 💬 Ask me about anything
