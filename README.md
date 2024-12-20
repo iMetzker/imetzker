@@ -25,6 +25,6 @@ console.log('Hello World!');
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,mysql,docker,react,js,ts,html,css,sass,styledcomponents,git" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,docker,react,js,ts,html,css,sass,styledcomponents,git" />
   </a>
 </p>
