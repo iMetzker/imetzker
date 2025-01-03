@@ -12,7 +12,7 @@ console.log('Hello World!');
 
 - 🛸 I currently work with PHP
 - ⚙  Software Engineering and Information Siystems university
-- 💻 Studying  SQL Server and Laravel
+- 💻 Studying mySQL, PHP and Laravel
 - 💬 Let's connect
 
 <br>
