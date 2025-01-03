@@ -10,10 +10,10 @@ console.log('Hello World!');
 ```
 <br>
 
-- 🛸 I currently work with front-end
+- 🛸 I currently work with PHP
 - ⚙  Software Engineering and Information Siystems university
-- 💻 Studying  mySQL and PHP
-- 💬 Ask me about anything
+- 💻 Studying  SQL Server and Laravel
+- 💬 Let's connect
 
 <br>
 
